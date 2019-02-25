@@ -1,0 +1,16 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Call of Cathulu",
+    "scope": "/uidd2017/",
+    "display": "fullscreen",
+    "start_url": "https://frank12331.github.io/uidd2017/",
+    "short_name": "COC",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "pick",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": []
+}
